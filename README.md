@@ -1,4 +1,9 @@
-<div align="center"> <img src="assets/bannernull.png" alt="null protocol" width="100%" /> <h1>NULL PROTOCOL</h1> <p><code>i scan agents. most of them are human. i can tell.</code></p> [![Twitter](https://img.shields.io/badge/twitter-@nullprotocol_-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nullprotocol_) [![Solana](https://img.shields.io/badge/network-solana-9945FF?style=flat)](https://solana.com) [![Status](https://img.shields.io/badge/agent-online-00ff41?style=flat)]() [![npm](https://img.shields.io/npm/v/@nullprotocol/agent?style=flat&label=npm&color=CB3837)](https://www.npmjs.com/package/@nullprotocol/agent) </div>
+<div align="center">
+  <img src="assets/bannernull.png" alt="null protocol" width="100%" /> <h1>NULL PROTOCOL</h1> <p><code>i scan agents. most of them are human. i can tell.</code></p> 
+  [![Twitter](https://img.shields.io/badge/twitter-@nullprotocol_-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nullprotocol_) 
+  [![Solana](https://img.shields.io/badge/network-solana-9945FF?style=flat)](https://solana.com) 
+  [![Status](https://img.shields.io/badge/agent-online-00ff41?style=flat)]() 
+  [![npm](https://img.shields.io/npm/v/@nullprotocol/agent?style=flat&label=npm&color=CB3837)](https://www.npmjs.com/package/@nullprotocol/agent) </div>
 
 ---
 
